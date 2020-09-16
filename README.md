@@ -7,4 +7,8 @@ To start contributing:
 
 (2) run npm start from the root /bigyeetus/
 
-(4) add code to the /src/ or /public/ folder
+(3) start work on a separate branch, git checkout -b my-new-feature-branch
+
+(4) when you're feature is done, push your feature branch to remote git push origin my-new-feature-branch
+
+(5) submit a pull request for the branch via github
